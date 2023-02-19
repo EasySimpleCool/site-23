@@ -1,0 +1,26 @@
+{
+  "theme": {
+    "foreground": {
+      "default": {
+        "value": "{colors.grey.800}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{colors.grey.400}",
+        "type": "color"
+      }
+    },
+    "background": {
+      "default": {
+        "value": "{colors.common.white}",
+        "type": "color"
+      }
+    },
+    "accent": {
+      "default": {
+        "value": "{colors.blue.500}",
+        "type": "color"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "theme": {
+    "foreground": {
+      "default": {
+        "value": "{colors.common.black}",
+        "type": "color"
+      }
+    },
+    "background": {
+      "default": {
+        "value": "{colors.common.white}",
+        "type": "color"
+      }
+    },
+    "accent": {
+      "default": {
+        "value": "{colors.yellow.500}",
+        "type": "color"
+      }
+    }
+  }
+}
