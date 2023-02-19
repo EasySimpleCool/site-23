@@ -69,7 +69,7 @@
       "type": "lineHeights"
     },
     "header": {
-      "value": "125%",
+      "value": "{lineHeights.default}",
       "type": "lineHeights"
     },
     "body": {
