@@ -38,7 +38,7 @@ function getStyleDictionaryConfig(theme) {
     platforms: {
       web: {
         transforms: ["attribute/cti", "name/cti/kebab", "sizes/px"],
-        buildPath: `scss/`,
+        buildPath: `styles/`,
         files: [
           {
             destination: `${theme}.scss`,
