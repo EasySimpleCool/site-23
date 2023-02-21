@@ -24,7 +24,7 @@ StyleDictionaryPackage.registerTransform({
       "borderRadius",
       "borderWidth",
       "sizing",
-    ].includes(prop.attributes.category);
+    ].includes(prop.type);
   },
   transformer: function (prop) {
     // You can also modify the value here if you want to convert pixels to ems
