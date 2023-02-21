@@ -1,8 +1,8 @@
 :root {
-          --theme-foreground-default: #424242;
+  --theme-foreground-default: #424242;
   --theme-foreground-muted: #bdbdbd;
   --theme-background-default: #ffffff;
-  --theme-accent-default: #0A91CC;
+  --theme-accent-default: #0a91cc;
   --typography-headline1-regular-font-family: Inter;
   --typography-headline1-regular-font-weight: Regular;
   --typography-headline1-regular-line-height: 100%;
@@ -74,4 +74,4 @@
   --typography-button-button-paragraph-spacing: 0%;
   --typography-button-button-text-decoration: none;
   --typography-button-button-text-case: uppercase;
-      }
+}
