@@ -5,6 +5,8 @@ export default function HomePage() {
             <h2>Heading2</h2>
             <h3>Heading3</h3>
             <p>Some content</p>
+            <p>Some content</p>
+            <p>Some content</p>
         </div>
     )
 }
