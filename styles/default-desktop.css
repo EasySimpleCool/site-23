@@ -1,4 +1,4 @@
-.default-desktop-theme {
+:root {
           --theme-foreground-default: #424242;
   --theme-foreground-muted: #bdbdbd;
   --theme-background-default: #ffffff;
