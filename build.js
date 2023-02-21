@@ -7,7 +7,7 @@ StyleDictionaryPackage.registerFormat({
   formatter: function (dictionary, config) {
     return `${this.selector} {
         ${dictionary.allProperties
-          .map((prop) => `  --${prop.name}: ${prop.value};`)
+          .map((prop) => `  $${prop.name}: ${prop.value};`)
           .join("\n")}
       }`;
   },

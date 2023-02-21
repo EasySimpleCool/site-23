@@ -1,7 +1,7 @@
-@import url("default-mobile.css");
+@import 'default-mobile';
 
 @media screen and (min-width: 768px) {
-  @import url("default-desktop.css");
+  @import 'default-desktop';
 }
 
 * {
@@ -17,14 +17,14 @@ body {
   padding: 0 2rem;
 }
 
-h2 {
-  font-size: 20px;
+h1 {
+  font-size: $typography-headline1-regular-font-size;
 }
-
-@media (min-width: 768px) {
-  h2 {
-    font-size: 40px;
-  }
+h2 {
+  font-size: $typography-headline2-regular-font-size;
+}
+h3 {
+  font-size: $typography-headline3-regular-font-size;
 }
 
 a {
@@ -67,6 +67,3 @@ nav a {
   text-decoration: underline;
 }
 
-h1 {
-  font-size: var(--typography-headline1-regular-font-size);
-}
