@@ -41,8 +41,8 @@ function getStyleDictionaryConfig(theme) {
         buildPath: `styles/`,
         files: [
           {
-            destination: `${theme}.scss`,
-            format: "scss/variables",
+            destination: `${theme}.css`,
+            format: "css/variables",
             selector: `.${theme}-theme`,
           },
         ],
