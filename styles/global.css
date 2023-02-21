@@ -1,6 +1,6 @@
 @import url("default-mobile.css");
 
-@media (min-width: 768px) {
+@media screen and (min-width: 768px) {
   @import url("default-desktop.css");
 }
 
