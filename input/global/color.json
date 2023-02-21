@@ -1,0 +1,58 @@
+{
+  "colors": {
+    "common": {
+      "white": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "black": {
+        "value": "#1f1f1f",
+        "type": "color"
+      }
+    },
+    "blue": {
+      "500": {
+        "value": "#0A91CC",
+        "type": "color"
+      }
+    },
+    "green": {
+      "500": {
+        "value": "#18a957",
+        "type": "color"
+      }
+    },
+    "red": {
+      "500": {
+        "value": "#df1642",
+        "type": "color"
+      }
+    },
+    "yellow": {
+      "500": {
+        "value": "#ffbb38",
+        "type": "color"
+      }
+    },
+    "purple": {
+      "500": {
+        "value": "#965cda",
+        "type": "color"
+      }
+    },
+    "grey": {
+      "50": {
+        "value": "#fcfcfc",
+        "type": "color"
+      },
+      "400": {
+        "value": "#bdbdbd",
+        "type": "color"
+      },
+      "800": {
+        "value": "#424242",
+        "type": "color"
+      }
+    }
+  }
+}
