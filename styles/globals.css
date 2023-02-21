@@ -1,4 +1,4 @@
-@import url("/default-mobile.scss");
+@import url("default-mobile.css");
 
 * {
   box-sizing: border-box;
@@ -54,9 +54,9 @@ nav a {
 }
 
 h1 {
-  font-size: $typography-headline1-regular-font-size;
+  font-size: var(--typography-headline1-regular-font-size);
 }
 
 @media screen and (min-width: 600px) {
-  @import url("/default-desktop.css");
+  @import url("default-desktop.css");
 }
