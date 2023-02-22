@@ -3,11 +3,11 @@ const StyleDictionaryPackage = require("style-dictionary");
 // HAVE THE STYLE DICTIONARY CONFIG DYNAMICALLY GENERATED
 
 StyleDictionaryPackage.registerFormat({
-  name: "scss/variables",
+  name: "css/variables",
   formatter: function (dictionary, config) {
     return `${this.selector} {
         ${dictionary.allProperties
-          .map((prop) => `  $${prop.name}: ${prop.value};`)
+          .map((prop) => `  --${prop.name}: ${prop.value};`)
           .join("\n")}
       }`;
   },
@@ -41,8 +41,8 @@ function getStyleDictionaryConfig(theme) {
         buildPath: `styles/`,
         files: [
           {
-            destination: `${theme}.scss`,
-            format: "scss/variables",
+            destination: `${theme}.css`,
+            format: "css/variables",
             selector: `:root`,
           },
         ],
