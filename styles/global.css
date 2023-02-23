@@ -1,9 +1,8 @@
-@import 'default-mobile';
+@import "./default-mobile.css";
 
 @media screen and (min-width: 768px) {
-  @import 'default-desktop';
+  @include "default-desktop";
 }
-
 * {
   box-sizing: border-box;
 }
@@ -18,15 +17,15 @@ body {
 }
 
 h1 {
-  font-size: $typography-headline1-regular-font-size;
+  font-size: var(--typography-headline1-regular-font-size);
 }
 
 h2 {
-  font-size: $typography-headline2-regular-font-size;
+  font-size: var(--typography-headline2-regular-font-size);
 }
 
 h3 {
-  font-size: $typography-headline3-regular-font-size;
+  font-size: var(--typography-headline3-regular-font-size);
 }
 
 a {
@@ -68,4 +67,3 @@ nav a {
   margin: 0 0.5rem;
   text-decoration: underline;
 }
-

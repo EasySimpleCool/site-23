@@ -14,9 +14,9 @@ jobs:
       # Transform Figma Tokens JSON to something Style Dictionary can read
       - run: npx token-transformer tokens.json tokens/global.json global
       # Create a desktop theme, exclude global,screen tokens
-      - run: npx token-transformer input/ output/default-desktop.json input/global/typography,input/global/color,input/screen/desktop,input/semantic/default input/global/typography,input/global/color,input/screen/desktop --expandTypography=true --expandComposition=true --resolveReferences=true
+      - run: npx token-transformer input/ output/default-desktop.json input/global/typography,input/global/color,input/global/dimension,input/screen/desktop,input/semantic/default --expandTypography=true --expandComposition=true --resolveReferences=true
       # Create a mobile theme, exclude global,screen tokens
-      - run: npx token-transformer input/ output/default-mobile.json input/global/typography,input/global/color,input/screen/mobile,input/semantic/default input/global/typography,input/global/color,input/screen/mobile --expandTypography=true --expandComposition=true --resolveReferences=true
+      - run: npx token-transformer input/ output/default-mobile.json input/global/typography,input/global/color,input/global/dimension,input/screen/mobile,input/semantic/default --expandTypography=true --expandComposition=true --resolveReferences=true
       # Convert tokens according to Style Dictionary config
       - run: node build.js
       # Add files that were created during a run, e.g. created files from style dictionary or token-transformer.
