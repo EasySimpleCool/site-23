@@ -3,12 +3,11 @@
     "id": "03e749c5625e531c56e3e45398dd14e64663b81f",
     "name": "alt-desktop",
     "selectedTokenSets": {
-      "screen/desktop": "enabled",
       "global/color": "enabled",
       "semantic/default": "enabled",
       "semantic/alt": "enabled",
       "global/typography": "enabled",
-      "component/button": "enabled"
+      "comp/button": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -18,22 +17,10 @@
     "selectedTokenSets": {
       "global/color": "enabled",
       "global/typography": "enabled",
-      "screen/mobile": "enabled",
       "semantic/default": "enabled",
       "semantic/alt": "enabled",
-      "component/button": "enabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "bf63073469a476da30ec07b03033441f1cbd4605",
-    "name": "default-desktop",
-    "selectedTokenSets": {
-      "screen/desktop": "enabled",
-      "component/button": "enabled",
-      "global/color": "enabled",
-      "semantic/default": "enabled",
-      "global/typography": "enabled"
+      "comp/button": "enabled",
+      "screen/mobile": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -41,11 +28,29 @@
     "id": "251814d55d65430632177979c9586615ba3aa3e4",
     "name": "default-mobile",
     "selectedTokenSets": {
-      "screen/mobile": "enabled",
-      "component/button": "enabled",
-      "global/color": "source",
+      "global/color": "enabled",
       "semantic/default": "enabled",
-      "global/typography": "source"
+      "global/typography": "enabled",
+      "comp/button": "enabled",
+      "screen/mobile": "enabled",
+      "comp/stack": "enabled",
+      "comp/section": "enabled",
+      "global/dimension": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "bf63073469a476da30ec07b03033441f1cbd4605",
+    "name": "default-desktop",
+    "selectedTokenSets": {
+      "global/color": "enabled",
+      "semantic/default": "enabled",
+      "global/typography": "enabled",
+      "global/dimension": "enabled",
+      "comp/stack": "enabled",
+      "comp/button": "enabled",
+      "screen/desktop": "enabled",
+      "comp/section": "enabled"
     },
     "$figmaStyleReferences": {}
   }

@@ -2,10 +2,13 @@
   "tokenSetOrder": [
     "global/color",
     "global/typography",
+    "global/dimension",
     "screen/desktop",
     "screen/mobile",
     "semantic/default",
     "semantic/alt",
-    "component/button"
+    "comp/button",
+    "comp/stack",
+    "comp/section"
   ]
 }

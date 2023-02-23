@@ -8,5 +8,17 @@
       "value": "1.333",
       "type": "fontSizes"
     }
+  },
+  "dimension": {
+    "scale": {
+      "value": ".5",
+      "type": "other"
+    }
+  },
+  "screen": {
+    "width": {
+      "value": "{sizing.screen-300}",
+      "type": "sizing"
+    }
   }
 }
