@@ -1,8 +1,16 @@
-@import "./default-mobile.css";
+/* Css file for screens smaller than 900px */
+/* Import mobile.css for screens smaller than 600px */
 
-@media screen and (min-width: 768px) {
-  @include "default-desktop";
+/* @media (max-width: 900px) {
+  @import url("./default-mobile.css");
 }
+
+/* Import desktop.css for screens larger than 600px 
+@media (min-width: 901px) {
+  @import url("./default-desktop.css");
+} 
+*/
+
 * {
   box-sizing: border-box;
 }
