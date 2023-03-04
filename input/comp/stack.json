@@ -3,44 +3,43 @@
     "stack": {
       "even-less": {
         "value": {
-          "itemSpacing": "{dimension.least}"
+          "itemSpacing": "0"
         },
         "type": "composition"
       },
       "less": {
         "value": {
-          "itemSpacing": "{dimension.even-less}"
+          "itemSpacing": "0"
         },
         "type": "composition"
       },
       "bit-less": {
         "value": {
-          "itemSpacing": "{dimension.less}"
+          "itemSpacing": "0"
         },
         "type": "composition"
       },
       "default": {
         "value": {
-          "itemSpacing": "{dimension.bit-less}",
-          "width": "({screen.width} - ({grid.gutter}*4)) / 3"
+          "itemSpacing": "0"
         },
         "type": "composition"
       },
       "bit-more": {
         "value": {
-          "itemSpacing": "{dimension.default}"
+          "itemSpacing": "0"
         },
         "type": "composition"
       },
       "more": {
         "value": {
-          "itemSpacing": "{dimension.bit-more}"
+          "itemSpacing": "0"
         },
         "type": "composition"
       },
       "even-more": {
         "value": {
-          "itemSpacing": "{dimension.more}"
+          "itemSpacing": "0"
         },
         "type": "composition"
       }
@@ -48,43 +47,43 @@
     "inline": {
       "even-less": {
         "value": {
-          "itemSpacing": "{dimension.least}"
+          "itemSpacing": "0"
         },
         "type": "composition"
       },
       "less": {
         "value": {
-          "itemSpacing": "{dimension.even-less}"
+          "itemSpacing": "0"
         },
         "type": "composition"
       },
       "bit-less": {
         "value": {
-          "itemSpacing": "{dimension.less}"
+          "itemSpacing": "0"
         },
         "type": "composition"
       },
       "default": {
         "value": {
-          "itemSpacing": "{dimension.bit-less}"
+          "itemSpacing": "0"
         },
         "type": "composition"
       },
       "bit-more": {
         "value": {
-          "itemSpacing": "{dimension.default}"
+          "itemSpacing": "0"
         },
         "type": "composition"
       },
       "more": {
         "value": {
-          "itemSpacing": "{dimension.bit-more}"
+          "itemSpacing": "0"
         },
         "type": "composition"
       },
       "even-more": {
         "value": {
-          "itemSpacing": "{dimension.more}"
+          "itemSpacing": "0"
         },
         "type": "composition"
       }
@@ -94,43 +93,43 @@
     "stack": {
       "even-less": {
         "value": {
-          "itemSpacing": "{dimension.less}"
+          "itemSpacing": "0"
         },
         "type": "composition"
       },
       "less": {
         "value": {
-          "itemSpacing": "{dimension.bit-less}"
+          "itemSpacing": "0"
         },
         "type": "composition"
       },
       "bit-less": {
         "value": {
-          "itemSpacing": "{dimension.default}"
+          "itemSpacing": "0"
         },
         "type": "composition"
       },
       "default": {
         "value": {
-          "itemSpacing": "{dimension.bit-more}"
+          "itemSpacing": "0"
         },
         "type": "composition"
       },
       "bit-more": {
         "value": {
-          "itemSpacing": "{dimension.more}"
+          "itemSpacing": "0"
         },
         "type": "composition"
       },
       "more": {
         "value": {
-          "itemSpacing": "{dimension.even-more}"
+          "itemSpacing": "0"
         },
         "type": "composition"
       },
       "even-more": {
         "value": {
-          "itemSpacing": "{dimension.most}"
+          "itemSpacing": "0"
         },
         "type": "composition"
       }
@@ -138,43 +137,43 @@
     "inline": {
       "even-less": {
         "value": {
-          "itemSpacing": "{dimension.less}"
+          "itemSpacing": "0"
         },
         "type": "composition"
       },
       "less": {
         "value": {
-          "itemSpacing": "{dimension.bit-less}"
+          "itemSpacing": "0"
         },
         "type": "composition"
       },
       "bit-less": {
         "value": {
-          "itemSpacing": "{dimension.default}"
+          "itemSpacing": "0"
         },
         "type": "composition"
       },
       "default": {
         "value": {
-          "itemSpacing": "{dimension.bit-more}"
+          "itemSpacing": "0"
         },
         "type": "composition"
       },
       "bit-more": {
         "value": {
-          "itemSpacing": "{dimension.more}"
+          "itemSpacing": "0"
         },
         "type": "composition"
       },
       "more": {
         "value": {
-          "itemSpacing": "{dimension.even-more}"
+          "itemSpacing": "0"
         },
         "type": "composition"
       },
       "even-more": {
         "value": {
-          "itemSpacing": "{dimension.most}"
+          "itemSpacing": "0"
         },
         "type": "composition"
       }

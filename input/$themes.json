@@ -4,10 +4,10 @@
     "name": "alt-desktop",
     "selectedTokenSets": {
       "global/color": "enabled",
-      "semantic/default": "enabled",
-      "semantic/alt": "enabled",
       "global/typography": "enabled",
-      "comp/button": "enabled"
+      "comp/button": "enabled",
+      "semantic/light": "enabled",
+      "semantic/dark": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -17,10 +17,10 @@
     "selectedTokenSets": {
       "global/color": "enabled",
       "global/typography": "enabled",
-      "semantic/default": "enabled",
-      "semantic/alt": "enabled",
       "comp/button": "enabled",
-      "screen/mobile": "enabled"
+      "screen/mobile": "enabled",
+      "semantic/light": "enabled",
+      "semantic/dark": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -29,13 +29,14 @@
     "name": "default-mobile",
     "selectedTokenSets": {
       "global/color": "enabled",
-      "semantic/default": "enabled",
       "global/typography": "enabled",
       "comp/button": "enabled",
       "screen/mobile": "enabled",
       "comp/stack": "enabled",
       "comp/section": "enabled",
-      "global/dimension": "enabled"
+      "global/dimension": "enabled",
+      "semantic/light": "enabled",
+      "semantic/dark": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -44,13 +45,14 @@
     "name": "default-desktop",
     "selectedTokenSets": {
       "global/color": "source",
-      "semantic/default": "enabled",
       "global/typography": "source",
       "global/dimension": "source",
       "comp/stack": "enabled",
       "comp/button": "enabled",
       "screen/desktop": "enabled",
-      "comp/section": "enabled"
+      "comp/section": "enabled",
+      "semantic/light": "enabled",
+      "semantic/dark": "disabled"
     },
     "$figmaStyleReferences": {
       "color.foreground.default": "S:9599999ab494a7eb05d82d3b1eed2929adb40b9f,",

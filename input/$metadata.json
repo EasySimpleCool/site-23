@@ -5,8 +5,8 @@
     "global/dimension",
     "screen/desktop",
     "screen/mobile",
-    "semantic/default",
-    "semantic/alt",
+    "semantic/light",
+    "semantic/dark",
     "comp/button",
     "comp/stack",
     "comp/section"

@@ -1,0 +1,201 @@
+{
+  "semantic": {
+    "color": {
+      "foreground": {
+        "less": {
+          "value": "{core.color.lights.900}",
+          "type": "color"
+        },
+        "default": {
+          "value": "{core.color.lights.500}",
+          "type": "color"
+        },
+        "more": {
+          "value": "{core.color.lights.100}",
+          "type": "color"
+        }
+      },
+      "elevation": {
+        "above": {
+          "less": {
+            "value": "{core.color.darks.100}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{core.color.darks.200}",
+            "type": "color"
+          },
+          "more": {
+            "value": "{core.color.darks.300}",
+            "type": "color"
+          }
+        },
+        "middle": {
+          "less": {
+            "value": "{core.color.darks.400}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{core.color.darks.500}",
+            "type": "color"
+          },
+          "more": {
+            "value": "{core.color.darks.600}",
+            "type": "color"
+          }
+        },
+        "below": {
+          "less": {
+            "value": "{core.color.darks.700}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{core.color.darks.800}",
+            "type": "color"
+          },
+          "more": {
+            "value": "{core.color.darks.900}",
+            "type": "color"
+          }
+        }
+      },
+      "accent": {
+        "blue": {
+          "less": {
+            "value": "{core.color.blue.400}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{core.color.blue.500}",
+            "type": "color"
+          },
+          "more": {
+            "value": "{core.color.blue.600}",
+            "type": "color"
+          },
+          "on-blue": {
+            "value": "{core.color.blue.500}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "0.8",
+                  "space": "lch"
+                }
+              }
+            }
+          }
+        },
+        "yellow": {
+          "less": {
+            "value": "{core.color.yellow.400}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{core.color.yellow.500}",
+            "type": "color"
+          },
+          "more": {
+            "value": "{core.color.yellow.600}",
+            "type": "color"
+          },
+          "on-yellow": {
+            "value": "{core.color.yellow.500}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "0.8",
+                  "space": "lch"
+                }
+              }
+            }
+          }
+        },
+        "purple": {
+          "less": {
+            "value": "{core.color.purple.400}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{core.color.purple.500}",
+            "type": "color"
+          },
+          "more": {
+            "value": "{core.color.purple.600}",
+            "type": "color"
+          },
+          "on-purple": {
+            "value": "{core.color.purple.500}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "0.8",
+                  "space": "lch"
+                }
+              }
+            }
+          }
+        },
+        "positive": {
+          "less": {
+            "value": "{core.color.green.400}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{core.color.green.500}",
+            "type": "color"
+          },
+          "more": {
+            "value": "{core.color.green.600}",
+            "type": "color"
+          },
+          "on-positive": {
+            "value": "{core.color.green.500}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "0.8",
+                  "space": "lch"
+                }
+              }
+            }
+          }
+        },
+        "negative": {
+          "less": {
+            "value": "{core.color.red.400}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{core.color.red.500}",
+            "type": "color"
+          },
+          "more": {
+            "value": "{core.color.red.600}",
+            "type": "color"
+          },
+          "on-negative": {
+            "value": "{core.color.red.500}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "0.8",
+                  "space": "lch"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
