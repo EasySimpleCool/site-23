@@ -14,8 +14,8 @@
       "value": "Regular",
       "type": "fontWeights"
     },
-    "medium": {
-      "value": "Medium",
+    "semi-bold": {
+      "value": "Semi Bold",
       "type": "fontWeights"
     },
     "bold": {
@@ -24,50 +24,78 @@
     }
   },
   "font-size": {
-    "display8": {
-      "value": "round(({font-size.typescale} ^ 5) * {font-size.base})",
-      "type": "fontSizes"
+    "math": {
+      "display7": {
+        "value": "round(({font-size.math.typescale} ^ 5) * {font-size.math.base})",
+        "type": "fontSizes"
+      },
+      "display6": {
+        "value": "round(({font-size.math.typescale} ^ 4) * {font-size.math.base})",
+        "type": "fontSizes"
+      },
+      "display5": {
+        "value": "round(({font-size.math.typescale} ^ 3) * {font-size.math.base})",
+        "type": "fontSizes"
+      },
+      "display4": {
+        "value": "round(({font-size.math.typescale} ^ 2) * {font-size.math.base})",
+        "type": "fontSizes"
+      },
+      "display3": {
+        "value": "round(({font-size.math.typescale} ^ 1) * {font-size.math.base})",
+        "type": "fontSizes"
+      },
+      "display2": {
+        "value": "round(({font-size.math.typescale} ^ 0) * {font-size.math.base})",
+        "type": "fontSizes"
+      },
+      "display1": {
+        "value": "round(({font-size.math.typescale} ^ -1) * {font-size.math.base})",
+        "type": "fontSizes"
+      },
+      "base": {
+        "value": "16",
+        "type": "fontSizes"
+      },
+      "typescale": {
+        "value": "1.175",
+        "type": "fontSizes"
+      }
     },
-    "display7": {
-      "value": "round(({font-size.typescale} ^ 4) * {font-size.base})",
-      "type": "fontSizes"
-    },
-    "display6": {
-      "value": "round(({font-size.typescale} ^ 3) * {font-size.base})",
-      "type": "fontSizes"
-    },
-    "display5": {
-      "value": "round(({font-size.typescale} ^ 2) * {font-size.base})",
-      "type": "fontSizes"
-    },
-    "display4": {
-      "value": "round(({font-size.typescale} ^ 1) * {font-size.base})",
-      "type": "fontSizes"
-    },
-    "display3": {
-      "value": "round(({font-size.typescale} ^ 0) * {font-size.base})",
-      "type": "fontSizes"
-    },
-    "display2": {
-      "value": "round(({font-size.typescale} ^ -1) * {font-size.base})",
-      "type": "fontSizes"
-    },
-    "display1": {
-      "value": "round(({font-size.typescale} ^ -2) * {font-size.base})",
-      "type": "fontSizes"
-    },
-    "base": {
-      "value": "16",
-      "type": "fontSizes"
-    },
-    "typescale": {
-      "value": "1.414",
-      "type": "fontSizes"
+    "flat": {
+      "12": {
+        "value": "12",
+        "type": "fontSizes"
+      },
+      "14": {
+        "value": "14",
+        "type": "fontSizes"
+      },
+      "16": {
+        "value": "16",
+        "type": "fontSizes"
+      },
+      "20": {
+        "value": "20",
+        "type": "fontSizes"
+      },
+      "24": {
+        "value": "24",
+        "type": "fontSizes"
+      },
+      "30": {
+        "value": "30",
+        "type": "fontSizes"
+      },
+      "36": {
+        "value": "36",
+        "type": "fontSizes"
+      }
     }
   },
   "line-height": {
     "default": {
-      "value": "100%",
+      "value": "125%",
       "type": "lineHeights"
     },
     "header": {

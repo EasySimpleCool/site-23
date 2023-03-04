@@ -2,19 +2,19 @@
   "theme": {
     "foreground": {
       "default": {
-        "value": "{colors.common.black}",
+        "value": "{core.color.common.black}",
         "type": "color"
       }
     },
     "background": {
       "default": {
-        "value": "{colors.common.white}",
+        "value": "{core.color.common.white}",
         "type": "color"
       }
     },
     "accent": {
       "default": {
-        "value": "{colors.purple.500}",
+        "value": "{core.color.purple.500}",
         "type": "color"
       }
     }
