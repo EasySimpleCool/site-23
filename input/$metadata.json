@@ -5,11 +5,17 @@
     "screen/desktop",
     "screen/mobile",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "semantic/light",
     "semantic/dark",
     "comp/button",
     "comp/stack",
     "comp/section"
+=======
+    "semantic/default",
+    "semantic/alt",
+    "component/button"
+>>>>>>> parent of 968e731 (dimension)
 =======
     "semantic/default",
     "semantic/alt",
