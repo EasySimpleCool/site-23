@@ -1,0 +1,1535 @@
+{
+	"--component-horizontal-stack-bit-less-item-spacing": {
+		"prefix": "--component-horizontal-stack-bit-less-item-spacing",
+		"body": [
+			"var(--component-horizontal-stack-bit-less-item-spacing)"
+		],
+		"description": "Value: 0.75rem\\nUnder component category."
+	},
+	"--component-horizontal-stack-bit-more-item-spacing": {
+		"prefix": "--component-horizontal-stack-bit-more-item-spacing",
+		"body": [
+			"var(--component-horizontal-stack-bit-more-item-spacing)"
+		],
+		"description": "Value: 1.25rem\\nUnder component category."
+	},
+	"--component-horizontal-stack-default-item-spacing": {
+		"prefix": "--component-horizontal-stack-default-item-spacing",
+		"body": [
+			"var(--component-horizontal-stack-default-item-spacing)"
+		],
+		"description": "Value: 1rem\\nUnder component category."
+	},
+	"--component-horizontal-stack-even-less-item-spacing": {
+		"prefix": "--component-horizontal-stack-even-less-item-spacing",
+		"body": [
+			"var(--component-horizontal-stack-even-less-item-spacing)"
+		],
+		"description": "Value: 0.5rem\\nUnder component category."
+	},
+	"--component-horizontal-stack-even-more-item-spacing": {
+		"prefix": "--component-horizontal-stack-even-more-item-spacing",
+		"body": [
+			"var(--component-horizontal-stack-even-more-item-spacing)"
+		],
+		"description": "Value: 2rem\\nUnder component category."
+	},
+	"--component-horizontal-stack-less-item-spacing": {
+		"prefix": "--component-horizontal-stack-less-item-spacing",
+		"body": [
+			"var(--component-horizontal-stack-less-item-spacing)"
+		],
+		"description": "Value: 0.625rem\\nUnder component category."
+	},
+	"--component-horizontal-stack-more-item-spacing": {
+		"prefix": "--component-horizontal-stack-more-item-spacing",
+		"body": [
+			"var(--component-horizontal-stack-more-item-spacing)"
+		],
+		"description": "Value: 1.625rem\\nUnder component category."
+	},
+	"--component-vertical-stack-bit-less-item-spacing": {
+		"prefix": "--component-vertical-stack-bit-less-item-spacing",
+		"body": [
+			"var(--component-vertical-stack-bit-less-item-spacing)"
+		],
+		"description": "Value: 0.75rem\\nUnder component category."
+	},
+	"--component-vertical-stack-bit-more-item-spacing": {
+		"prefix": "--component-vertical-stack-bit-more-item-spacing",
+		"body": [
+			"var(--component-vertical-stack-bit-more-item-spacing)"
+		],
+		"description": "Value: 1.25rem\\nUnder component category."
+	},
+	"--component-vertical-stack-default-item-spacing": {
+		"prefix": "--component-vertical-stack-default-item-spacing",
+		"body": [
+			"var(--component-vertical-stack-default-item-spacing)"
+		],
+		"description": "Value: 1rem\\nUnder component category."
+	},
+	"--component-vertical-stack-even-less-item-spacing": {
+		"prefix": "--component-vertical-stack-even-less-item-spacing",
+		"body": [
+			"var(--component-vertical-stack-even-less-item-spacing)"
+		],
+		"description": "Value: 0.5rem\\nUnder component category."
+	},
+	"--component-vertical-stack-even-more-item-spacing": {
+		"prefix": "--component-vertical-stack-even-more-item-spacing",
+		"body": [
+			"var(--component-vertical-stack-even-more-item-spacing)"
+		],
+		"description": "Value: 2rem\\nUnder component category."
+	},
+	"--component-vertical-stack-less-item-spacing": {
+		"prefix": "--component-vertical-stack-less-item-spacing",
+		"body": [
+			"var(--component-vertical-stack-less-item-spacing)"
+		],
+		"description": "Value: 0.625rem\\nUnder component category."
+	},
+	"--component-vertical-stack-more-item-spacing": {
+		"prefix": "--component-vertical-stack-more-item-spacing",
+		"body": [
+			"var(--component-vertical-stack-more-item-spacing)"
+		],
+		"description": "Value: 1.625rem\\nUnder component category."
+	},
+	"--core-color-blue-100": {
+		"prefix": "--core-color-blue-100",
+		"body": [
+			"var(--core-color-blue-100)"
+		],
+		"description": "Value: #0A91CC\\nUnder core category."
+	},
+	"--core-color-blue-200": {
+		"prefix": "--core-color-blue-200",
+		"body": [
+			"var(--core-color-blue-200)"
+		],
+		"description": "Value: #0A91CC\\nUnder core category."
+	},
+	"--core-color-blue-300": {
+		"prefix": "--core-color-blue-300",
+		"body": [
+			"var(--core-color-blue-300)"
+		],
+		"description": "Value: #0A91CC\\nUnder core category."
+	},
+	"--core-color-blue-400": {
+		"prefix": "--core-color-blue-400",
+		"body": [
+			"var(--core-color-blue-400)"
+		],
+		"description": "Value: #0A91CC\\nUnder core category."
+	},
+	"--core-color-blue-500": {
+		"prefix": "--core-color-blue-500",
+		"body": [
+			"var(--core-color-blue-500)"
+		],
+		"description": "Value: #0A91CC\\nUnder core category."
+	},
+	"--core-color-blue-600": {
+		"prefix": "--core-color-blue-600",
+		"body": [
+			"var(--core-color-blue-600)"
+		],
+		"description": "Value: #0A91CC\\nUnder core category."
+	},
+	"--core-color-blue-700": {
+		"prefix": "--core-color-blue-700",
+		"body": [
+			"var(--core-color-blue-700)"
+		],
+		"description": "Value: #0A91CC\\nUnder core category."
+	},
+	"--core-color-blue-800": {
+		"prefix": "--core-color-blue-800",
+		"body": [
+			"var(--core-color-blue-800)"
+		],
+		"description": "Value: #0A91CC\\nUnder core category."
+	},
+	"--core-color-blue-900": {
+		"prefix": "--core-color-blue-900",
+		"body": [
+			"var(--core-color-blue-900)"
+		],
+		"description": "Value: #0A91CC\\nUnder core category."
+	},
+	"--core-color-darks-100": {
+		"prefix": "--core-color-darks-100",
+		"body": [
+			"var(--core-color-darks-100)"
+		],
+		"description": "Value: #545F6D\\nUnder core category."
+	},
+	"--core-color-darks-200": {
+		"prefix": "--core-color-darks-200",
+		"body": [
+			"var(--core-color-darks-200)"
+		],
+		"description": "Value: #545F6D\\nUnder core category."
+	},
+	"--core-color-darks-300": {
+		"prefix": "--core-color-darks-300",
+		"body": [
+			"var(--core-color-darks-300)"
+		],
+		"description": "Value: #545F6D\\nUnder core category."
+	},
+	"--core-color-darks-400": {
+		"prefix": "--core-color-darks-400",
+		"body": [
+			"var(--core-color-darks-400)"
+		],
+		"description": "Value: #545F6D\\nUnder core category."
+	},
+	"--core-color-darks-500": {
+		"prefix": "--core-color-darks-500",
+		"body": [
+			"var(--core-color-darks-500)"
+		],
+		"description": "Value: #545F6D\\nUnder core category."
+	},
+	"--core-color-darks-600": {
+		"prefix": "--core-color-darks-600",
+		"body": [
+			"var(--core-color-darks-600)"
+		],
+		"description": "Value: #545F6D\\nUnder core category."
+	},
+	"--core-color-darks-700": {
+		"prefix": "--core-color-darks-700",
+		"body": [
+			"var(--core-color-darks-700)"
+		],
+		"description": "Value: #545F6D\\nUnder core category."
+	},
+	"--core-color-darks-800": {
+		"prefix": "--core-color-darks-800",
+		"body": [
+			"var(--core-color-darks-800)"
+		],
+		"description": "Value: #545F6D\\nUnder core category."
+	},
+	"--core-color-darks-900": {
+		"prefix": "--core-color-darks-900",
+		"body": [
+			"var(--core-color-darks-900)"
+		],
+		"description": "Value: #545F6D\\nUnder core category."
+	},
+	"--core-color-green-100": {
+		"prefix": "--core-color-green-100",
+		"body": [
+			"var(--core-color-green-100)"
+		],
+		"description": "Value: #7FD1B9\\nUnder core category."
+	},
+	"--core-color-green-200": {
+		"prefix": "--core-color-green-200",
+		"body": [
+			"var(--core-color-green-200)"
+		],
+		"description": "Value: #7FD1B9\\nUnder core category."
+	},
+	"--core-color-green-300": {
+		"prefix": "--core-color-green-300",
+		"body": [
+			"var(--core-color-green-300)"
+		],
+		"description": "Value: #7FD1B9\\nUnder core category."
+	},
+	"--core-color-green-400": {
+		"prefix": "--core-color-green-400",
+		"body": [
+			"var(--core-color-green-400)"
+		],
+		"description": "Value: #7FD1B9\\nUnder core category."
+	},
+	"--core-color-green-500": {
+		"prefix": "--core-color-green-500",
+		"body": [
+			"var(--core-color-green-500)"
+		],
+		"description": "Value: #7FD1B9\\nUnder core category."
+	},
+	"--core-color-green-600": {
+		"prefix": "--core-color-green-600",
+		"body": [
+			"var(--core-color-green-600)"
+		],
+		"description": "Value: #7FD1B9\\nUnder core category."
+	},
+	"--core-color-green-700": {
+		"prefix": "--core-color-green-700",
+		"body": [
+			"var(--core-color-green-700)"
+		],
+		"description": "Value: #7FD1B9\\nUnder core category."
+	},
+	"--core-color-green-800": {
+		"prefix": "--core-color-green-800",
+		"body": [
+			"var(--core-color-green-800)"
+		],
+		"description": "Value: #7FD1B9\\nUnder core category."
+	},
+	"--core-color-green-900": {
+		"prefix": "--core-color-green-900",
+		"body": [
+			"var(--core-color-green-900)"
+		],
+		"description": "Value: #7FD1B9\\nUnder core category."
+	},
+	"--core-color-lights-100": {
+		"prefix": "--core-color-lights-100",
+		"body": [
+			"var(--core-color-lights-100)"
+		],
+		"description": "Value: #D9E1EC\\nUnder core category."
+	},
+	"--core-color-lights-200": {
+		"prefix": "--core-color-lights-200",
+		"body": [
+			"var(--core-color-lights-200)"
+		],
+		"description": "Value: #D9E1EC\\nUnder core category."
+	},
+	"--core-color-lights-300": {
+		"prefix": "--core-color-lights-300",
+		"body": [
+			"var(--core-color-lights-300)"
+		],
+		"description": "Value: #D9E1EC\\nUnder core category."
+	},
+	"--core-color-lights-400": {
+		"prefix": "--core-color-lights-400",
+		"body": [
+			"var(--core-color-lights-400)"
+		],
+		"description": "Value: #D9E1EC\\nUnder core category."
+	},
+	"--core-color-lights-500": {
+		"prefix": "--core-color-lights-500",
+		"body": [
+			"var(--core-color-lights-500)"
+		],
+		"description": "Value: #D9E1EC\\nUnder core category."
+	},
+	"--core-color-lights-600": {
+		"prefix": "--core-color-lights-600",
+		"body": [
+			"var(--core-color-lights-600)"
+		],
+		"description": "Value: #D9E1EC\\nUnder core category."
+	},
+	"--core-color-lights-700": {
+		"prefix": "--core-color-lights-700",
+		"body": [
+			"var(--core-color-lights-700)"
+		],
+		"description": "Value: #D9E1EC\\nUnder core category."
+	},
+	"--core-color-lights-800": {
+		"prefix": "--core-color-lights-800",
+		"body": [
+			"var(--core-color-lights-800)"
+		],
+		"description": "Value: #D9E1EC\\nUnder core category."
+	},
+	"--core-color-lights-900": {
+		"prefix": "--core-color-lights-900",
+		"body": [
+			"var(--core-color-lights-900)"
+		],
+		"description": "Value: #D9E1EC\\nUnder core category."
+	},
+	"--core-color-purple-100": {
+		"prefix": "--core-color-purple-100",
+		"body": [
+			"var(--core-color-purple-100)"
+		],
+		"description": "Value: #965cda\\nUnder core category."
+	},
+	"--core-color-purple-200": {
+		"prefix": "--core-color-purple-200",
+		"body": [
+			"var(--core-color-purple-200)"
+		],
+		"description": "Value: #965cda\\nUnder core category."
+	},
+	"--core-color-purple-300": {
+		"prefix": "--core-color-purple-300",
+		"body": [
+			"var(--core-color-purple-300)"
+		],
+		"description": "Value: #965cda\\nUnder core category."
+	},
+	"--core-color-purple-400": {
+		"prefix": "--core-color-purple-400",
+		"body": [
+			"var(--core-color-purple-400)"
+		],
+		"description": "Value: #965cda\\nUnder core category."
+	},
+	"--core-color-purple-500": {
+		"prefix": "--core-color-purple-500",
+		"body": [
+			"var(--core-color-purple-500)"
+		],
+		"description": "Value: #965cda\\nUnder core category."
+	},
+	"--core-color-purple-600": {
+		"prefix": "--core-color-purple-600",
+		"body": [
+			"var(--core-color-purple-600)"
+		],
+		"description": "Value: #965cda\\nUnder core category."
+	},
+	"--core-color-purple-700": {
+		"prefix": "--core-color-purple-700",
+		"body": [
+			"var(--core-color-purple-700)"
+		],
+		"description": "Value: #965cda\\nUnder core category."
+	},
+	"--core-color-purple-800": {
+		"prefix": "--core-color-purple-800",
+		"body": [
+			"var(--core-color-purple-800)"
+		],
+		"description": "Value: #965cda\\nUnder core category."
+	},
+	"--core-color-purple-900": {
+		"prefix": "--core-color-purple-900",
+		"body": [
+			"var(--core-color-purple-900)"
+		],
+		"description": "Value: #965cda\\nUnder core category."
+	},
+	"--core-color-red-100": {
+		"prefix": "--core-color-red-100",
+		"body": [
+			"var(--core-color-red-100)"
+		],
+		"description": "Value: #FF0054\\nUnder core category."
+	},
+	"--core-color-red-200": {
+		"prefix": "--core-color-red-200",
+		"body": [
+			"var(--core-color-red-200)"
+		],
+		"description": "Value: #FF0054\\nUnder core category."
+	},
+	"--core-color-red-300": {
+		"prefix": "--core-color-red-300",
+		"body": [
+			"var(--core-color-red-300)"
+		],
+		"description": "Value: #FF0054\\nUnder core category."
+	},
+	"--core-color-red-400": {
+		"prefix": "--core-color-red-400",
+		"body": [
+			"var(--core-color-red-400)"
+		],
+		"description": "Value: #FF0054\\nUnder core category."
+	},
+	"--core-color-red-500": {
+		"prefix": "--core-color-red-500",
+		"body": [
+			"var(--core-color-red-500)"
+		],
+		"description": "Value: #FF0054\\nUnder core category."
+	},
+	"--core-color-red-600": {
+		"prefix": "--core-color-red-600",
+		"body": [
+			"var(--core-color-red-600)"
+		],
+		"description": "Value: #FF0054\\nUnder core category."
+	},
+	"--core-color-red-700": {
+		"prefix": "--core-color-red-700",
+		"body": [
+			"var(--core-color-red-700)"
+		],
+		"description": "Value: #FF0054\\nUnder core category."
+	},
+	"--core-color-red-800": {
+		"prefix": "--core-color-red-800",
+		"body": [
+			"var(--core-color-red-800)"
+		],
+		"description": "Value: #FF0054\\nUnder core category."
+	},
+	"--core-color-red-900": {
+		"prefix": "--core-color-red-900",
+		"body": [
+			"var(--core-color-red-900)"
+		],
+		"description": "Value: #FF0054\\nUnder core category."
+	},
+	"--core-color-yellow-100": {
+		"prefix": "--core-color-yellow-100",
+		"body": [
+			"var(--core-color-yellow-100)"
+		],
+		"description": "Value: #ffbb38\\nUnder core category."
+	},
+	"--core-color-yellow-200": {
+		"prefix": "--core-color-yellow-200",
+		"body": [
+			"var(--core-color-yellow-200)"
+		],
+		"description": "Value: #ffbb38\\nUnder core category."
+	},
+	"--core-color-yellow-300": {
+		"prefix": "--core-color-yellow-300",
+		"body": [
+			"var(--core-color-yellow-300)"
+		],
+		"description": "Value: #ffbb38\\nUnder core category."
+	},
+	"--core-color-yellow-400": {
+		"prefix": "--core-color-yellow-400",
+		"body": [
+			"var(--core-color-yellow-400)"
+		],
+		"description": "Value: #ffbb38\\nUnder core category."
+	},
+	"--core-color-yellow-500": {
+		"prefix": "--core-color-yellow-500",
+		"body": [
+			"var(--core-color-yellow-500)"
+		],
+		"description": "Value: #ffbb38\\nUnder core category."
+	},
+	"--core-color-yellow-600": {
+		"prefix": "--core-color-yellow-600",
+		"body": [
+			"var(--core-color-yellow-600)"
+		],
+		"description": "Value: #ffbb38\\nUnder core category."
+	},
+	"--core-color-yellow-700": {
+		"prefix": "--core-color-yellow-700",
+		"body": [
+			"var(--core-color-yellow-700)"
+		],
+		"description": "Value: #ffbb38\\nUnder core category."
+	},
+	"--core-color-yellow-800": {
+		"prefix": "--core-color-yellow-800",
+		"body": [
+			"var(--core-color-yellow-800)"
+		],
+		"description": "Value: #ffbb38\\nUnder core category."
+	},
+	"--core-color-yellow-900": {
+		"prefix": "--core-color-yellow-900",
+		"body": [
+			"var(--core-color-yellow-900)"
+		],
+		"description": "Value: #ffbb38\\nUnder core category."
+	},
+	"--d-16": {
+		"prefix": "--d-16",
+		"body": [
+			"var(--d-16)"
+		],
+		"description": "Value: 16px\\nUnder d-16 category."
+	},
+	"--d-20": {
+		"prefix": "--d-20",
+		"body": [
+			"var(--d-20)"
+		],
+		"description": "Value: 20px\\nUnder d-20 category."
+	},
+	"--d-24": {
+		"prefix": "--d-24",
+		"body": [
+			"var(--d-24)"
+		],
+		"description": "Value: 24px\\nUnder d-24 category."
+	},
+	"--d-32": {
+		"prefix": "--d-32",
+		"body": [
+			"var(--d-32)"
+		],
+		"description": "Value: 32px\\nUnder d-32 category."
+	},
+	"--d-40": {
+		"prefix": "--d-40",
+		"body": [
+			"var(--d-40)"
+		],
+		"description": "Value: 40px\\nUnder d-40 category."
+	},
+	"--d-52": {
+		"prefix": "--d-52",
+		"body": [
+			"var(--d-52)"
+		],
+		"description": "Value: 52px\\nUnder d-52 category."
+	},
+	"--d-64": {
+		"prefix": "--d-64",
+		"body": [
+			"var(--d-64)"
+		],
+		"description": "Value: 64px\\nUnder d-64 category."
+	},
+	"--d-80": {
+		"prefix": "--d-80",
+		"body": [
+			"var(--d-80)"
+		],
+		"description": "Value: 80px\\nUnder d-80 category."
+	},
+	"--d-96": {
+		"prefix": "--d-96",
+		"body": [
+			"var(--d-96)"
+		],
+		"description": "Value: 96px\\nUnder d-96 category."
+	},
+	"--dimension-scale": {
+		"prefix": "--dimension-scale",
+		"body": [
+			"var(--dimension-scale)"
+		],
+		"description": "Value: 0.5\\nUnder dimension category."
+	},
+	"--font-family-body": {
+		"prefix": "--font-family-body",
+		"body": [
+			"var(--font-family-body)"
+		],
+		"description": "Value: Inter\\nUnder font-family category."
+	},
+	"--font-family-headlines": {
+		"prefix": "--font-family-headlines",
+		"body": [
+			"var(--font-family-headlines)"
+		],
+		"description": "Value: Inter\\nUnder font-family category."
+	},
+	"--font-size-base": {
+		"prefix": "--font-size-base",
+		"body": [
+			"var(--font-size-base)"
+		],
+		"description": "Value: 16\\nUnder font-size category."
+	},
+	"--font-size-flat-12": {
+		"prefix": "--font-size-flat-12",
+		"body": [
+			"var(--font-size-flat-12)"
+		],
+		"description": "Value: 12\\nUnder font-size category."
+	},
+	"--font-size-flat-14": {
+		"prefix": "--font-size-flat-14",
+		"body": [
+			"var(--font-size-flat-14)"
+		],
+		"description": "Value: 14\\nUnder font-size category."
+	},
+	"--font-size-flat-16": {
+		"prefix": "--font-size-flat-16",
+		"body": [
+			"var(--font-size-flat-16)"
+		],
+		"description": "Value: 16\\nUnder font-size category."
+	},
+	"--font-size-flat-20": {
+		"prefix": "--font-size-flat-20",
+		"body": [
+			"var(--font-size-flat-20)"
+		],
+		"description": "Value: 20\\nUnder font-size category."
+	},
+	"--font-size-flat-24": {
+		"prefix": "--font-size-flat-24",
+		"body": [
+			"var(--font-size-flat-24)"
+		],
+		"description": "Value: 24\\nUnder font-size category."
+	},
+	"--font-size-flat-30": {
+		"prefix": "--font-size-flat-30",
+		"body": [
+			"var(--font-size-flat-30)"
+		],
+		"description": "Value: 30\\nUnder font-size category."
+	},
+	"--font-size-flat-36": {
+		"prefix": "--font-size-flat-36",
+		"body": [
+			"var(--font-size-flat-36)"
+		],
+		"description": "Value: 36\\nUnder font-size category."
+	},
+	"--font-size-math-base": {
+		"prefix": "--font-size-math-base",
+		"body": [
+			"var(--font-size-math-base)"
+		],
+		"description": "Value: 16\\nUnder font-size category."
+	},
+	"--font-size-math-display1": {
+		"prefix": "--font-size-math-display1",
+		"body": [
+			"var(--font-size-math-display1)"
+		],
+		"description": "Value: 14\\nUnder font-size category."
+	},
+	"--font-size-math-display2": {
+		"prefix": "--font-size-math-display2",
+		"body": [
+			"var(--font-size-math-display2)"
+		],
+		"description": "Value: 16\\nUnder font-size category."
+	},
+	"--font-size-math-display3": {
+		"prefix": "--font-size-math-display3",
+		"body": [
+			"var(--font-size-math-display3)"
+		],
+		"description": "Value: 19\\nUnder font-size category."
+	},
+	"--font-size-math-display4": {
+		"prefix": "--font-size-math-display4",
+		"body": [
+			"var(--font-size-math-display4)"
+		],
+		"description": "Value: 22\\nUnder font-size category."
+	},
+	"--font-size-math-display5": {
+		"prefix": "--font-size-math-display5",
+		"body": [
+			"var(--font-size-math-display5)"
+		],
+		"description": "Value: 26\\nUnder font-size category."
+	},
+	"--font-size-math-display6": {
+		"prefix": "--font-size-math-display6",
+		"body": [
+			"var(--font-size-math-display6)"
+		],
+		"description": "Value: 30\\nUnder font-size category."
+	},
+	"--font-size-math-display7": {
+		"prefix": "--font-size-math-display7",
+		"body": [
+			"var(--font-size-math-display7)"
+		],
+		"description": "Value: 36\\nUnder font-size category."
+	},
+	"--font-size-math-typescale": {
+		"prefix": "--font-size-math-typescale",
+		"body": [
+			"var(--font-size-math-typescale)"
+		],
+		"description": "Value: 1.175\\nUnder font-size category."
+	},
+	"--font-size-typescale": {
+		"prefix": "--font-size-typescale",
+		"body": [
+			"var(--font-size-typescale)"
+		],
+		"description": "Value: 1.333\\nUnder font-size category."
+	},
+	"--font-weight-bold": {
+		"prefix": "--font-weight-bold",
+		"body": [
+			"var(--font-weight-bold)"
+		],
+		"description": "Value: Bold\\nUnder font-weight category."
+	},
+	"--font-weight-regular": {
+		"prefix": "--font-weight-regular",
+		"body": [
+			"var(--font-weight-regular)"
+		],
+		"description": "Value: Regular\\nUnder font-weight category."
+	},
+	"--font-weight-semi-bold": {
+		"prefix": "--font-weight-semi-bold",
+		"body": [
+			"var(--font-weight-semi-bold)"
+		],
+		"description": "Value: Semi Bold\\nUnder font-weight category."
+	},
+	"--layout-horizontal-stack-bit-less-item-spacing": {
+		"prefix": "--layout-horizontal-stack-bit-less-item-spacing",
+		"body": [
+			"var(--layout-horizontal-stack-bit-less-item-spacing)"
+		],
+		"description": "Value: 1.25rem\\nUnder layout category."
+	},
+	"--layout-horizontal-stack-bit-more-item-spacing": {
+		"prefix": "--layout-horizontal-stack-bit-more-item-spacing",
+		"body": [
+			"var(--layout-horizontal-stack-bit-more-item-spacing)"
+		],
+		"description": "Value: 2rem\\nUnder layout category."
+	},
+	"--layout-horizontal-stack-default-item-spacing": {
+		"prefix": "--layout-horizontal-stack-default-item-spacing",
+		"body": [
+			"var(--layout-horizontal-stack-default-item-spacing)"
+		],
+		"description": "Value: 1.625rem\\nUnder layout category."
+	},
+	"--layout-horizontal-stack-even-less-item-spacing": {
+		"prefix": "--layout-horizontal-stack-even-less-item-spacing",
+		"body": [
+			"var(--layout-horizontal-stack-even-less-item-spacing)"
+		],
+		"description": "Value: 0.75rem\\nUnder layout category."
+	},
+	"--layout-horizontal-stack-even-more-item-spacing": {
+		"prefix": "--layout-horizontal-stack-even-more-item-spacing",
+		"body": [
+			"var(--layout-horizontal-stack-even-more-item-spacing)"
+		],
+		"description": "Value: 3rem\\nUnder layout category."
+	},
+	"--layout-horizontal-stack-less-item-spacing": {
+		"prefix": "--layout-horizontal-stack-less-item-spacing",
+		"body": [
+			"var(--layout-horizontal-stack-less-item-spacing)"
+		],
+		"description": "Value: 1rem\\nUnder layout category."
+	},
+	"--layout-horizontal-stack-more-item-spacing": {
+		"prefix": "--layout-horizontal-stack-more-item-spacing",
+		"body": [
+			"var(--layout-horizontal-stack-more-item-spacing)"
+		],
+		"description": "Value: 2.5rem\\nUnder layout category."
+	},
+	"--layout-vertical-stack-bit-less-item-spacing": {
+		"prefix": "--layout-vertical-stack-bit-less-item-spacing",
+		"body": [
+			"var(--layout-vertical-stack-bit-less-item-spacing)"
+		],
+		"description": "Value: 1.25rem\\nUnder layout category."
+	},
+	"--layout-vertical-stack-bit-more-item-spacing": {
+		"prefix": "--layout-vertical-stack-bit-more-item-spacing",
+		"body": [
+			"var(--layout-vertical-stack-bit-more-item-spacing)"
+		],
+		"description": "Value: 2rem\\nUnder layout category."
+	},
+	"--layout-vertical-stack-default-item-spacing": {
+		"prefix": "--layout-vertical-stack-default-item-spacing",
+		"body": [
+			"var(--layout-vertical-stack-default-item-spacing)"
+		],
+		"description": "Value: 1.625rem\\nUnder layout category."
+	},
+	"--layout-vertical-stack-even-less-item-spacing": {
+		"prefix": "--layout-vertical-stack-even-less-item-spacing",
+		"body": [
+			"var(--layout-vertical-stack-even-less-item-spacing)"
+		],
+		"description": "Value: 0.75rem\\nUnder layout category."
+	},
+	"--layout-vertical-stack-even-more-item-spacing": {
+		"prefix": "--layout-vertical-stack-even-more-item-spacing",
+		"body": [
+			"var(--layout-vertical-stack-even-more-item-spacing)"
+		],
+		"description": "Value: 3rem\\nUnder layout category."
+	},
+	"--layout-vertical-stack-less-item-spacing": {
+		"prefix": "--layout-vertical-stack-less-item-spacing",
+		"body": [
+			"var(--layout-vertical-stack-less-item-spacing)"
+		],
+		"description": "Value: 1rem\\nUnder layout category."
+	},
+	"--layout-vertical-stack-more-item-spacing": {
+		"prefix": "--layout-vertical-stack-more-item-spacing",
+		"body": [
+			"var(--layout-vertical-stack-more-item-spacing)"
+		],
+		"description": "Value: 2.5rem\\nUnder layout category."
+	},
+	"--letter-spacing-none": {
+		"prefix": "--letter-spacing-none",
+		"body": [
+			"var(--letter-spacing-none)"
+		],
+		"description": "Value: 0%\\nUnder letter-spacing category."
+	},
+	"--letter-spacing-small": {
+		"prefix": "--letter-spacing-small",
+		"body": [
+			"var(--letter-spacing-small)"
+		],
+		"description": "Value: 5%\\nUnder letter-spacing category."
+	},
+	"--line-height-body": {
+		"prefix": "--line-height-body",
+		"body": [
+			"var(--line-height-body)"
+		],
+		"description": "Value: 150%\\nUnder line-height category."
+	},
+	"--line-height-default": {
+		"prefix": "--line-height-default",
+		"body": [
+			"var(--line-height-default)"
+		],
+		"description": "Value: 125%\\nUnder line-height category."
+	},
+	"--line-height-header": {
+		"prefix": "--line-height-header",
+		"body": [
+			"var(--line-height-header)"
+		],
+		"description": "Value: 125%\\nUnder line-height category."
+	},
+	"--line-height-roomy": {
+		"prefix": "--line-height-roomy",
+		"body": [
+			"var(--line-height-roomy)"
+		],
+		"description": "Value: 187.5%\\nUnder line-height category."
+	},
+	"--screen-width": {
+		"prefix": "--screen-width",
+		"body": [
+			"var(--screen-width)"
+		],
+		"description": "Value: 18.75rem\\nUnder screen category."
+	},
+	"--semantic-color-accent-blue-darker": {
+		"prefix": "--semantic-color-accent-blue-darker",
+		"body": [
+			"var(--semantic-color-accent-blue-darker)"
+		],
+		"description": "Value: #0A91CC\\nUnder semantic category."
+	},
+	"--semantic-color-accent-blue-default": {
+		"prefix": "--semantic-color-accent-blue-default",
+		"body": [
+			"var(--semantic-color-accent-blue-default)"
+		],
+		"description": "Value: #0A91CC\\nUnder semantic category."
+	},
+	"--semantic-color-accent-blue-lighter": {
+		"prefix": "--semantic-color-accent-blue-lighter",
+		"body": [
+			"var(--semantic-color-accent-blue-lighter)"
+		],
+		"description": "Value: #0A91CC\\nUnder semantic category."
+	},
+	"--semantic-color-accent-blue-on-blue": {
+		"prefix": "--semantic-color-accent-blue-on-blue",
+		"body": [
+			"var(--semantic-color-accent-blue-on-blue)"
+		],
+		"description": "Value: #0A91CC\\nUnder semantic category."
+	},
+	"--semantic-color-accent-negative-darker": {
+		"prefix": "--semantic-color-accent-negative-darker",
+		"body": [
+			"var(--semantic-color-accent-negative-darker)"
+		],
+		"description": "Value: #FF0054\\nUnder semantic category."
+	},
+	"--semantic-color-accent-negative-default": {
+		"prefix": "--semantic-color-accent-negative-default",
+		"body": [
+			"var(--semantic-color-accent-negative-default)"
+		],
+		"description": "Value: #FF0054\\nUnder semantic category."
+	},
+	"--semantic-color-accent-negative-lighter": {
+		"prefix": "--semantic-color-accent-negative-lighter",
+		"body": [
+			"var(--semantic-color-accent-negative-lighter)"
+		],
+		"description": "Value: #FF0054\\nUnder semantic category."
+	},
+	"--semantic-color-accent-negative-on-negative": {
+		"prefix": "--semantic-color-accent-negative-on-negative",
+		"body": [
+			"var(--semantic-color-accent-negative-on-negative)"
+		],
+		"description": "Value: #FF0054\\nUnder semantic category."
+	},
+	"--semantic-color-accent-positive-darker": {
+		"prefix": "--semantic-color-accent-positive-darker",
+		"body": [
+			"var(--semantic-color-accent-positive-darker)"
+		],
+		"description": "Value: #7FD1B9\\nUnder semantic category."
+	},
+	"--semantic-color-accent-positive-default": {
+		"prefix": "--semantic-color-accent-positive-default",
+		"body": [
+			"var(--semantic-color-accent-positive-default)"
+		],
+		"description": "Value: #7FD1B9\\nUnder semantic category."
+	},
+	"--semantic-color-accent-positive-lighter": {
+		"prefix": "--semantic-color-accent-positive-lighter",
+		"body": [
+			"var(--semantic-color-accent-positive-lighter)"
+		],
+		"description": "Value: #7FD1B9\\nUnder semantic category."
+	},
+	"--semantic-color-accent-positive-on-positive": {
+		"prefix": "--semantic-color-accent-positive-on-positive",
+		"body": [
+			"var(--semantic-color-accent-positive-on-positive)"
+		],
+		"description": "Value: #7FD1B9\\nUnder semantic category."
+	},
+	"--semantic-color-accent-purple-darker": {
+		"prefix": "--semantic-color-accent-purple-darker",
+		"body": [
+			"var(--semantic-color-accent-purple-darker)"
+		],
+		"description": "Value: #965cda\\nUnder semantic category."
+	},
+	"--semantic-color-accent-purple-default": {
+		"prefix": "--semantic-color-accent-purple-default",
+		"body": [
+			"var(--semantic-color-accent-purple-default)"
+		],
+		"description": "Value: #965cda\\nUnder semantic category."
+	},
+	"--semantic-color-accent-purple-lighter": {
+		"prefix": "--semantic-color-accent-purple-lighter",
+		"body": [
+			"var(--semantic-color-accent-purple-lighter)"
+		],
+		"description": "Value: #965cda\\nUnder semantic category."
+	},
+	"--semantic-color-accent-purple-on-purple": {
+		"prefix": "--semantic-color-accent-purple-on-purple",
+		"body": [
+			"var(--semantic-color-accent-purple-on-purple)"
+		],
+		"description": "Value: #965cda\\nUnder semantic category."
+	},
+	"--semantic-color-accent-yellow-darker": {
+		"prefix": "--semantic-color-accent-yellow-darker",
+		"body": [
+			"var(--semantic-color-accent-yellow-darker)"
+		],
+		"description": "Value: #ffbb38\\nUnder semantic category."
+	},
+	"--semantic-color-accent-yellow-default": {
+		"prefix": "--semantic-color-accent-yellow-default",
+		"body": [
+			"var(--semantic-color-accent-yellow-default)"
+		],
+		"description": "Value: #ffbb38\\nUnder semantic category."
+	},
+	"--semantic-color-accent-yellow-lighter": {
+		"prefix": "--semantic-color-accent-yellow-lighter",
+		"body": [
+			"var(--semantic-color-accent-yellow-lighter)"
+		],
+		"description": "Value: #ffbb38\\nUnder semantic category."
+	},
+	"--semantic-color-accent-yellow-on-yellow": {
+		"prefix": "--semantic-color-accent-yellow-on-yellow",
+		"body": [
+			"var(--semantic-color-accent-yellow-on-yellow)"
+		],
+		"description": "Value: #ffbb38\\nUnder semantic category."
+	},
+	"--semantic-color-elevation-above-darker": {
+		"prefix": "--semantic-color-elevation-above-darker",
+		"body": [
+			"var(--semantic-color-elevation-above-darker)"
+		],
+		"description": "Value: #545F6D\\nUnder semantic category."
+	},
+	"--semantic-color-elevation-above-default": {
+		"prefix": "--semantic-color-elevation-above-default",
+		"body": [
+			"var(--semantic-color-elevation-above-default)"
+		],
+		"description": "Value: #545F6D\\nUnder semantic category."
+	},
+	"--semantic-color-elevation-above-lighter": {
+		"prefix": "--semantic-color-elevation-above-lighter",
+		"body": [
+			"var(--semantic-color-elevation-above-lighter)"
+		],
+		"description": "Value: #545F6D\\nUnder semantic category."
+	},
+	"--semantic-color-elevation-below-darker": {
+		"prefix": "--semantic-color-elevation-below-darker",
+		"body": [
+			"var(--semantic-color-elevation-below-darker)"
+		],
+		"description": "Value: #545F6D\\nUnder semantic category."
+	},
+	"--semantic-color-elevation-below-default": {
+		"prefix": "--semantic-color-elevation-below-default",
+		"body": [
+			"var(--semantic-color-elevation-below-default)"
+		],
+		"description": "Value: #545F6D\\nUnder semantic category."
+	},
+	"--semantic-color-elevation-below-lighter": {
+		"prefix": "--semantic-color-elevation-below-lighter",
+		"body": [
+			"var(--semantic-color-elevation-below-lighter)"
+		],
+		"description": "Value: #545F6D\\nUnder semantic category."
+	},
+	"--semantic-color-elevation-middle-darker": {
+		"prefix": "--semantic-color-elevation-middle-darker",
+		"body": [
+			"var(--semantic-color-elevation-middle-darker)"
+		],
+		"description": "Value: #545F6D\\nUnder semantic category."
+	},
+	"--semantic-color-elevation-middle-default": {
+		"prefix": "--semantic-color-elevation-middle-default",
+		"body": [
+			"var(--semantic-color-elevation-middle-default)"
+		],
+		"description": "Value: #545F6D\\nUnder semantic category."
+	},
+	"--semantic-color-elevation-middle-lighter": {
+		"prefix": "--semantic-color-elevation-middle-lighter",
+		"body": [
+			"var(--semantic-color-elevation-middle-lighter)"
+		],
+		"description": "Value: #545F6D\\nUnder semantic category."
+	},
+	"--semantic-color-foreground-darker": {
+		"prefix": "--semantic-color-foreground-darker",
+		"body": [
+			"var(--semantic-color-foreground-darker)"
+		],
+		"description": "Value: #D9E1EC\\nUnder semantic category."
+	},
+	"--semantic-color-foreground-darker-copy": {
+		"prefix": "--semantic-color-foreground-darker-copy",
+		"body": [
+			"var(--semantic-color-foreground-darker-copy)"
+		],
+		"description": "Value: #545F6D\\nUnder semantic category."
+	},
+	"--semantic-color-foreground-default": {
+		"prefix": "--semantic-color-foreground-default",
+		"body": [
+			"var(--semantic-color-foreground-default)"
+		],
+		"description": "Value: #D9E1EC\\nUnder semantic category."
+	},
+	"--semantic-color-foreground-lighter": {
+		"prefix": "--semantic-color-foreground-lighter",
+		"body": [
+			"var(--semantic-color-foreground-lighter)"
+		],
+		"description": "Value: #D9E1EC\\nUnder semantic category."
+	},
+	"--semantic-dimension-bit-less": {
+		"prefix": "--semantic-dimension-bit-less",
+		"body": [
+			"var(--semantic-dimension-bit-less)"
+		],
+		"description": "Value: 16px\\nUnder semantic category."
+	},
+	"--semantic-dimension-bit-more": {
+		"prefix": "--semantic-dimension-bit-more",
+		"body": [
+			"var(--semantic-dimension-bit-more)"
+		],
+		"description": "Value: 26px\\nUnder semantic category."
+	},
+	"--semantic-dimension-default": {
+		"prefix": "--semantic-dimension-default",
+		"body": [
+			"var(--semantic-dimension-default)"
+		],
+		"description": "Value: 20px\\nUnder semantic category."
+	},
+	"--semantic-dimension-even-less": {
+		"prefix": "--semantic-dimension-even-less",
+		"body": [
+			"var(--semantic-dimension-even-less)"
+		],
+		"description": "Value: 10px\\nUnder semantic category."
+	},
+	"--semantic-dimension-even-more": {
+		"prefix": "--semantic-dimension-even-more",
+		"body": [
+			"var(--semantic-dimension-even-more)"
+		],
+		"description": "Value: 40px\\nUnder semantic category."
+	},
+	"--semantic-dimension-least": {
+		"prefix": "--semantic-dimension-least",
+		"body": [
+			"var(--semantic-dimension-least)"
+		],
+		"description": "Value: 8px\\nUnder semantic category."
+	},
+	"--semantic-dimension-less": {
+		"prefix": "--semantic-dimension-less",
+		"body": [
+			"var(--semantic-dimension-less)"
+		],
+		"description": "Value: 12px\\nUnder semantic category."
+	},
+	"--semantic-dimension-more": {
+		"prefix": "--semantic-dimension-more",
+		"body": [
+			"var(--semantic-dimension-more)"
+		],
+		"description": "Value: 32px\\nUnder semantic category."
+	},
+	"--semantic-dimension-most": {
+		"prefix": "--semantic-dimension-most",
+		"body": [
+			"var(--semantic-dimension-most)"
+		],
+		"description": "Value: 48px\\nUnder semantic category."
+	},
+	"--semantic-typography-b1-font-family": {
+		"prefix": "--semantic-typography-b1-font-family",
+		"body": [
+			"var(--semantic-typography-b1-font-family)"
+		],
+		"description": "Value: Inter\\nUnder semantic category."
+	},
+	"--semantic-typography-b1-font-size": {
+		"prefix": "--semantic-typography-b1-font-size",
+		"body": [
+			"var(--semantic-typography-b1-font-size)"
+		],
+		"description": "Value: 16\\nUnder semantic category."
+	},
+	"--semantic-typography-b1-font-weight": {
+		"prefix": "--semantic-typography-b1-font-weight",
+		"body": [
+			"var(--semantic-typography-b1-font-weight)"
+		],
+		"description": "Value: Regular\\nUnder semantic category."
+	},
+	"--semantic-typography-b1-line-height": {
+		"prefix": "--semantic-typography-b1-line-height",
+		"body": [
+			"var(--semantic-typography-b1-line-height)"
+		],
+		"description": "Value: 150%\\nUnder semantic category."
+	},
+	"--semantic-typography-b1-text-case": {
+		"prefix": "--semantic-typography-b1-text-case",
+		"body": [
+			"var(--semantic-typography-b1-text-case)"
+		],
+		"description": "Value: none\\nUnder semantic category."
+	},
+	"--semantic-typography-b2-font-family": {
+		"prefix": "--semantic-typography-b2-font-family",
+		"body": [
+			"var(--semantic-typography-b2-font-family)"
+		],
+		"description": "Value: Inter\\nUnder semantic category."
+	},
+	"--semantic-typography-b2-font-size": {
+		"prefix": "--semantic-typography-b2-font-size",
+		"body": [
+			"var(--semantic-typography-b2-font-size)"
+		],
+		"description": "Value: 14\\nUnder semantic category."
+	},
+	"--semantic-typography-b2-font-weight": {
+		"prefix": "--semantic-typography-b2-font-weight",
+		"body": [
+			"var(--semantic-typography-b2-font-weight)"
+		],
+		"description": "Value: Regular\\nUnder semantic category."
+	},
+	"--semantic-typography-b2-line-height": {
+		"prefix": "--semantic-typography-b2-line-height",
+		"body": [
+			"var(--semantic-typography-b2-line-height)"
+		],
+		"description": "Value: 150%\\nUnder semantic category."
+	},
+	"--semantic-typography-b2-text-case": {
+		"prefix": "--semantic-typography-b2-text-case",
+		"body": [
+			"var(--semantic-typography-b2-text-case)"
+		],
+		"description": "Value: none\\nUnder semantic category."
+	},
+	"--semantic-typography-c1-font-family": {
+		"prefix": "--semantic-typography-c1-font-family",
+		"body": [
+			"var(--semantic-typography-c1-font-family)"
+		],
+		"description": "Value: Inter\\nUnder semantic category."
+	},
+	"--semantic-typography-c1-font-size": {
+		"prefix": "--semantic-typography-c1-font-size",
+		"body": [
+			"var(--semantic-typography-c1-font-size)"
+		],
+		"description": "Value: 12\\nUnder semantic category."
+	},
+	"--semantic-typography-c1-font-weight": {
+		"prefix": "--semantic-typography-c1-font-weight",
+		"body": [
+			"var(--semantic-typography-c1-font-weight)"
+		],
+		"description": "Value: Regular\\nUnder semantic category."
+	},
+	"--semantic-typography-c1-line-height": {
+		"prefix": "--semantic-typography-c1-line-height",
+		"body": [
+			"var(--semantic-typography-c1-line-height)"
+		],
+		"description": "Value: 150%\\nUnder semantic category."
+	},
+	"--semantic-typography-c1-text-case": {
+		"prefix": "--semantic-typography-c1-text-case",
+		"body": [
+			"var(--semantic-typography-c1-text-case)"
+		],
+		"description": "Value: none\\nUnder semantic category."
+	},
+	"--semantic-typography-h1-font-family": {
+		"prefix": "--semantic-typography-h1-font-family",
+		"body": [
+			"var(--semantic-typography-h1-font-family)"
+		],
+		"description": "Value: Inter\\nUnder semantic category."
+	},
+	"--semantic-typography-h1-font-size": {
+		"prefix": "--semantic-typography-h1-font-size",
+		"body": [
+			"var(--semantic-typography-h1-font-size)"
+		],
+		"description": "Value: 36\\nUnder semantic category."
+	},
+	"--semantic-typography-h1-font-weight": {
+		"prefix": "--semantic-typography-h1-font-weight",
+		"body": [
+			"var(--semantic-typography-h1-font-weight)"
+		],
+		"description": "Value: Semi Bold\\nUnder semantic category."
+	},
+	"--semantic-typography-h1-line-height": {
+		"prefix": "--semantic-typography-h1-line-height",
+		"body": [
+			"var(--semantic-typography-h1-line-height)"
+		],
+		"description": "Value: 125%\\nUnder semantic category."
+	},
+	"--semantic-typography-h1-text-case": {
+		"prefix": "--semantic-typography-h1-text-case",
+		"body": [
+			"var(--semantic-typography-h1-text-case)"
+		],
+		"description": "Value: none\\nUnder semantic category."
+	},
+	"--semantic-typography-h2-font-family": {
+		"prefix": "--semantic-typography-h2-font-family",
+		"body": [
+			"var(--semantic-typography-h2-font-family)"
+		],
+		"description": "Value: Inter\\nUnder semantic category."
+	},
+	"--semantic-typography-h2-font-size": {
+		"prefix": "--semantic-typography-h2-font-size",
+		"body": [
+			"var(--semantic-typography-h2-font-size)"
+		],
+		"description": "Value: 30\\nUnder semantic category."
+	},
+	"--semantic-typography-h2-font-weight": {
+		"prefix": "--semantic-typography-h2-font-weight",
+		"body": [
+			"var(--semantic-typography-h2-font-weight)"
+		],
+		"description": "Value: Semi Bold\\nUnder semantic category."
+	},
+	"--semantic-typography-h2-line-height": {
+		"prefix": "--semantic-typography-h2-line-height",
+		"body": [
+			"var(--semantic-typography-h2-line-height)"
+		],
+		"description": "Value: 125%\\nUnder semantic category."
+	},
+	"--semantic-typography-h2-text-case": {
+		"prefix": "--semantic-typography-h2-text-case",
+		"body": [
+			"var(--semantic-typography-h2-text-case)"
+		],
+		"description": "Value: none\\nUnder semantic category."
+	},
+	"--semantic-typography-h3-font-family": {
+		"prefix": "--semantic-typography-h3-font-family",
+		"body": [
+			"var(--semantic-typography-h3-font-family)"
+		],
+		"description": "Value: Inter\\nUnder semantic category."
+	},
+	"--semantic-typography-h3-font-size": {
+		"prefix": "--semantic-typography-h3-font-size",
+		"body": [
+			"var(--semantic-typography-h3-font-size)"
+		],
+		"description": "Value: 24\\nUnder semantic category."
+	},
+	"--semantic-typography-h3-font-weight": {
+		"prefix": "--semantic-typography-h3-font-weight",
+		"body": [
+			"var(--semantic-typography-h3-font-weight)"
+		],
+		"description": "Value: Semi Bold\\nUnder semantic category."
+	},
+	"--semantic-typography-h3-line-height": {
+		"prefix": "--semantic-typography-h3-line-height",
+		"body": [
+			"var(--semantic-typography-h3-line-height)"
+		],
+		"description": "Value: 125%\\nUnder semantic category."
+	},
+	"--semantic-typography-h3-text-case": {
+		"prefix": "--semantic-typography-h3-text-case",
+		"body": [
+			"var(--semantic-typography-h3-text-case)"
+		],
+		"description": "Value: none\\nUnder semantic category."
+	},
+	"--semantic-typography-h4-font-family": {
+		"prefix": "--semantic-typography-h4-font-family",
+		"body": [
+			"var(--semantic-typography-h4-font-family)"
+		],
+		"description": "Value: Inter\\nUnder semantic category."
+	},
+	"--semantic-typography-h4-font-size": {
+		"prefix": "--semantic-typography-h4-font-size",
+		"body": [
+			"var(--semantic-typography-h4-font-size)"
+		],
+		"description": "Value: 20\\nUnder semantic category."
+	},
+	"--semantic-typography-h4-font-weight": {
+		"prefix": "--semantic-typography-h4-font-weight",
+		"body": [
+			"var(--semantic-typography-h4-font-weight)"
+		],
+		"description": "Value: Semi Bold\\nUnder semantic category."
+	},
+	"--semantic-typography-h4-line-height": {
+		"prefix": "--semantic-typography-h4-line-height",
+		"body": [
+			"var(--semantic-typography-h4-line-height)"
+		],
+		"description": "Value: 125%\\nUnder semantic category."
+	},
+	"--semantic-typography-h4-text-case": {
+		"prefix": "--semantic-typography-h4-text-case",
+		"body": [
+			"var(--semantic-typography-h4-text-case)"
+		],
+		"description": "Value: none\\nUnder semantic category."
+	},
+	"--semantic-typography-h5-font-family": {
+		"prefix": "--semantic-typography-h5-font-family",
+		"body": [
+			"var(--semantic-typography-h5-font-family)"
+		],
+		"description": "Value: Inter\\nUnder semantic category."
+	},
+	"--semantic-typography-h5-font-size": {
+		"prefix": "--semantic-typography-h5-font-size",
+		"body": [
+			"var(--semantic-typography-h5-font-size)"
+		],
+		"description": "Value: 16\\nUnder semantic category."
+	},
+	"--semantic-typography-h5-font-weight": {
+		"prefix": "--semantic-typography-h5-font-weight",
+		"body": [
+			"var(--semantic-typography-h5-font-weight)"
+		],
+		"description": "Value: Semi Bold\\nUnder semantic category."
+	},
+	"--semantic-typography-h5-line-height": {
+		"prefix": "--semantic-typography-h5-line-height",
+		"body": [
+			"var(--semantic-typography-h5-line-height)"
+		],
+		"description": "Value: 125%\\nUnder semantic category."
+	},
+	"--semantic-typography-h5-text-case": {
+		"prefix": "--semantic-typography-h5-text-case",
+		"body": [
+			"var(--semantic-typography-h5-text-case)"
+		],
+		"description": "Value: none\\nUnder semantic category."
+	},
+	"--sizing-screen-1200": {
+		"prefix": "--sizing-screen-1200",
+		"body": [
+			"var(--sizing-screen-1200)"
+		],
+		"description": "Value: 75rem\\nUnder sizing category."
+	},
+	"--sizing-screen-300": {
+		"prefix": "--sizing-screen-300",
+		"body": [
+			"var(--sizing-screen-300)"
+		],
+		"description": "Value: 18.75rem\\nUnder sizing category."
+	},
+	"--sizing-screen-600": {
+		"prefix": "--sizing-screen-600",
+		"body": [
+			"var(--sizing-screen-600)"
+		],
+		"description": "Value: 37.5rem\\nUnder sizing category."
+	},
+	"--sizing-screen-900": {
+		"prefix": "--sizing-screen-900",
+		"body": [
+			"var(--sizing-screen-900)"
+		],
+		"description": "Value: 56.25rem\\nUnder sizing category."
+	},
+	"--text-case-none": {
+		"prefix": "--text-case-none",
+		"body": [
+			"var(--text-case-none)"
+		],
+		"description": "Value: none\\nUnder text-case category."
+	},
+	"--text-case-uppercase": {
+		"prefix": "--text-case-uppercase",
+		"body": [
+			"var(--text-case-uppercase)"
+		],
+		"description": "Value: uppercase\\nUnder text-case category."
+	}
+}
