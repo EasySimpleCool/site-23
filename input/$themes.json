@@ -3,20 +3,11 @@
     "id": "03e749c5625e531c56e3e45398dd14e64663b81f",
     "name": "alt-desktop",
     "selectedTokenSets": {
-      "screen/desktop": "enabled",
       "global/color": "enabled",
       "global/typography": "enabled",
-<<<<<<< HEAD
-<<<<<<< HEAD
       "comp/button": "enabled",
       "semantic/light": "enabled",
       "semantic/dark": "enabled"
-=======
-      "component/button": "enabled"
->>>>>>> parent of 968e731 (dimension)
-=======
-      "component/button": "enabled"
->>>>>>> parent of 968e731 (dimension)
     },
     "$figmaStyleReferences": {}
   },
@@ -26,8 +17,6 @@
     "selectedTokenSets": {
       "global/color": "enabled",
       "global/typography": "enabled",
-<<<<<<< HEAD
-<<<<<<< HEAD
       "comp/button": "enabled",
       "screen/mobile": "enabled",
       "semantic/light": "enabled",
@@ -47,17 +36,6 @@
       "comp/section": "enabled",
       "global/dimension": "enabled",
       "semantic/light": "enabled"
-=======
-=======
->>>>>>> parent of 968e731 (dimension)
-      "screen/mobile": "enabled",
-      "semantic/default": "enabled",
-      "semantic/alt": "enabled",
-      "component/button": "enabled"
-<<<<<<< HEAD
->>>>>>> parent of 968e731 (dimension)
-=======
->>>>>>> parent of 968e731 (dimension)
     },
     "$figmaStyleReferences": {}
   },
@@ -65,8 +43,6 @@
     "id": "bf63073469a476da30ec07b03033441f1cbd4605",
     "name": "default-desktop",
     "selectedTokenSets": {
-<<<<<<< HEAD
-<<<<<<< HEAD
       "global/color": "source",
       "global/typography": "source",
       "global/dimension": "source",
@@ -75,42 +51,6 @@
       "screen/desktop": "enabled",
       "comp/section": "enabled",
       "semantic/light": "enabled"
-=======
-=======
->>>>>>> parent of 968e731 (dimension)
-      "screen/desktop": "enabled",
-      "component/button": "enabled",
-      "global/color": "enabled",
-      "semantic/default": "enabled",
-      "global/typography": "enabled"
-<<<<<<< HEAD
-=======
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "251814d55d65430632177979c9586615ba3aa3e4",
-    "name": "default-mobile",
-    "selectedTokenSets": {
-      "screen/mobile": "enabled",
-      "component/button": "enabled",
-      "global/color": "source",
-      "semantic/default": "enabled",
-      "global/typography": "source"
->>>>>>> parent of 968e731 (dimension)
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "251814d55d65430632177979c9586615ba3aa3e4",
-    "name": "default-mobile",
-    "selectedTokenSets": {
-      "screen/mobile": "enabled",
-      "component/button": "enabled",
-      "global/color": "source",
-      "semantic/default": "enabled",
-      "global/typography": "source"
->>>>>>> parent of 968e731 (dimension)
     },
     "$figmaStyleReferences": {
       "color.foreground.default": "S:9599999ab494a7eb05d82d3b1eed2929adb40b9f,",
