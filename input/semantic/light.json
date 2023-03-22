@@ -199,6 +199,16 @@
             }
           }
         }
+      },
+      "common": {
+        "black": {
+          "value": "{core.color.darks.900}",
+          "type": "color"
+        },
+        "white": {
+          "value": "{core.color.lights.100}",
+          "type": "color"
+        }
       }
     },
     "typography": {

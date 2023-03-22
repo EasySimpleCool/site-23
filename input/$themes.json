@@ -145,7 +145,10 @@
       "semantic.color.accent.positive.on-positive": "S:02c5080145f73195d4cf9b2ce6ab5085a894248a,",
       "semantic.color.accent.negative.lighter": "S:d77532de7918f1a79b744e878a3620aeefc90306,",
       "semantic.color.accent.negative.darker": "S:5f32f565e9ee964d51bd620b18de078d917d314b,",
-      "semantic.color.accent.negative.on-negative": "S:36a7d54d2b7d623a88f461aaaf68d03f4d5bd4fd,"
+      "semantic.color.accent.negative.on-negative": "S:36a7d54d2b7d623a88f461aaaf68d03f4d5bd4fd,",
+      "semantic.color.foreground.darker-copy": "S:52a88dc7053939961eee7faea5c9060f3f75af1a,",
+      "semantic.color.common.black": "S:9c459b2714c80552d8daabb6ee123028ec6e64eb,",
+      "semantic.color.common.white": "S:e240e2cb191ca794a467e58b2ecee4729f464f62,"
     }
   }
 ]
